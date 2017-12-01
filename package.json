@@ -1,0 +1,27 @@
+{
+  "name": "stockfact-nodejs-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/junyeong9619/fantastic-spoon.git"
+  },
+  "author": "Lee Jun Yeong <junyeong9619@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/junyeong9619/fantastic-spoon/issues"
+  },
+  "homepage": "https://github.com/junyeong9619/fantastic-spoon#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "eslint": "^4.12.1",
+    "eslint-config-google": "^0.9.1"
+  }
+}
